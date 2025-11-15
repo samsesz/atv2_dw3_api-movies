@@ -61,7 +61,6 @@ const ListMovie = () => {
 
                 <div className={styles.info}>
                   <h3 className={styles.movieTitle}>{movie.title}</h3>
-
                   <p className={styles.meta}>
                     <span>{movie.year || "—"}</span>
                     <span>★</span>

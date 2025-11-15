@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>The Filmes &copy; 2025</title>
+        <title>Filmes &copy; 2025</title>
         <meta
           name="description"
           content="Consumo em React de uma API de filmes"
